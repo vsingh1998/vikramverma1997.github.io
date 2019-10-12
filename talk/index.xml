@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Vivek Kulkarni</title>
+    <link>https://viveksck.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Vivek Kulkarni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Vivek Kulkarni</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Focused Representation Learning</title>
+      <link>https://viveksck.github.io/talk/uwyo/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://viveksck.github.io/talk/uwyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused Representation Learning</title>
+      <link>https://viveksck.github.io/talk/ucsb/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://viveksck.github.io/talk/ucsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Models for Linguistic Variation in Online Media</title>
+      <link>https://viveksck.github.io/talk/iacs/</link>
+      <pubDate>Wed, 05 Oct 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://viveksck.github.io/talk/iacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistically Significant Detection of Linguistic Change</title>
+      <link>https://viveksck.github.io/talk/yahoo-labs/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://viveksck.github.io/talk/yahoo-labs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
