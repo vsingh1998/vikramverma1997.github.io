@@ -1,122 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Vivek Kulkarni</title>
-    <link>https://viveksck.github.io/publication/</link>
-    <description>Recent content in Publications on Vivek Kulkarni</description>
+    <title>Publications on Amlan Kar</title>
+    <link>https://amlankar.github.io/publication/</link>
+    <description>Recent content in Publications on Amlan Kar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Vivek Kulkarni</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2020 Amlan Kar</copyright>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amlankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Human Centered NLP with User Factor Adaptation</title>
-      <link>https://viveksck.github.io/publication/emnlp2017/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Learning to Evaluate Perception Models using Planner-Centric Metrics</title>
+      <link>https://amlankar.github.io/publication/detection-relevance/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/emnlp2017/</guid>
+      <guid>https://amlankar.github.io/publication/detection-relevance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the Distribution of Lexical Features at Multiple Levels of Analysis</title>
-      <link>https://viveksck.github.io/publication/acl2017/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Nonlinear Color Triads for Approximation, Learning and Direct Manipulation of Color Distributions</title>
+      <link>https://amlankar.github.io/publication/colorsails/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/acl2017/</guid>
+      <guid>https://amlankar.github.io/publication/colorsails/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Don’t Walk, Skip! Online Learning of Multi-scale Network Embeddings</title>
-      <link>https://viveksck.github.io/publication/asonam2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Meta-Sim: Learning to Generate Synthetic Datasets</title>
+      <link>https://amlankar.github.io/publication/meta-sim/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/asonam2017/</guid>
+      <guid>https://amlankar.github.io/publication/meta-sim/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Domain Adaptation with Named Entity Recognition in Online Media with Word Embeddings</title>
-      <link>https://viveksck.github.io/publication/domain2016/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <title>Neural Turtle Graphics for Modeling City Road Layouts</title>
+      <link>https://amlankar.github.io/publication/ntg/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/domain2016/</guid>
+      <guid>https://amlankar.github.io/publication/ntg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theano: A python framework for fast computation of mathematical expressions</title>
-      <link>https://viveksck.github.io/publication/theano2016/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Learning to Caption Images through a Lifetime by Asking Questions</title>
+      <link>https://amlankar.github.io/publication/captionquestions/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/theano2016/</guid>
+      <guid>https://amlankar.github.io/publication/captionquestions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Freshman or Fresher? Quantifying the geographic variation of language in online social media.</title>
-      <link>https://viveksck.github.io/publication/icwsm2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations</title>
+      <link>https://amlankar.github.io/publication/steal/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/icwsm2016/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Paper ceiling: Explaining the persistent underrepresentation of women in printed news</title>
-      <link>https://viveksck.github.io/publication/asr2015/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://viveksck.github.io/publication/asr2015/</guid>
+      <guid>https://amlankar.github.io/publication/steal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistically Significant Detection of Linguistic Change</title>
-      <link>https://viveksck.github.io/publication/www2015/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <title>Creative Flow&#43; Dataset</title>
+      <link>https://amlankar.github.io/publication/creativeflow/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/www2015/</guid>
+      <guid>https://amlankar.github.io/publication/creativeflow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Polyglot NER: Massive Multilingual Named Entity Recognition</title>
-      <link>https://viveksck.github.io/publication/sdm2015/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <title>Fast Interactive Object Annotation with Curve-GCN</title>
+      <link>https://amlankar.github.io/publication/curvegcn/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/sdm2015/</guid>
+      <guid>https://amlankar.github.io/publication/curvegcn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>To drop or not to drop: Robustness, consistency and differential privacy properties of dropout</title>
-      <link>https://viveksck.github.io/publication/dropout/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Object Instance Annotation with Deep Extreme Level Set Evolution</title>
+      <link>https://amlankar.github.io/publication/delse/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/dropout/</guid>
+      <guid>https://amlankar.github.io/publication/delse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Inducing Language Networks from Continuous Space Word Representations</title>
-      <link>https://viveksck.github.io/publication/ccn2014/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN&#43;&#43;</title>
+      <link>https://amlankar.github.io/publication/polyrnnpp/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/ccn2014/</guid>
+      <guid>https://amlankar.github.io/publication/polyrnnpp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sex differences in the Human Connectome</title>
-      <link>https://viveksck.github.io/publication/bhi2013/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <title>AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos</title>
+      <link>https://amlankar.github.io/publication/adascan/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://viveksck.github.io/publication/bhi2013/</guid>
-      <description></description>
+      <guid>https://amlankar.github.io/publication/adascan/</guid>
+      <description> Results Note: References are as in the paper. There is an error in the table in the paper (Wang et al. [44] results), which has been corrected here. Qualitative Results </description>
     </item>
     
   </channel>
