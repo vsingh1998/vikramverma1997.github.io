@@ -3,5 +3,6 @@
         "Rivi",
         "Rivières",
         "res"
-    ]
+    ],
+    "python.pythonPath": "/usr/bin/python3"
 }
